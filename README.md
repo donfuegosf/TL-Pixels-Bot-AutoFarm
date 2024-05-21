@@ -237,6 +237,9 @@ Type: Number
 Default: 5
 Options: 1-6
 
+## Example
+
+https://github.com/PPixMans/Pixels-Bot-AutoFarm/assets/170432730/04d61d2d-c646-42ae-8384-79f6f886544a
 
 ## Warning
 
