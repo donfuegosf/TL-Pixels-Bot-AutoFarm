@@ -1,7 +1,6 @@
 from time import sleep
 from player import Player
-
-
+# Github: PPixMans
 sleep(2)
 print("Start Farm Bot!")
 player = Player()
